@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1506589998 source:c:\users\uset\desktop\codeblocks\proje1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1507622389 source:c:\users\uset\desktop\proje\proje1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
